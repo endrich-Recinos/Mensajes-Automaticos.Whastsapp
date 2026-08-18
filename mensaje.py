@@ -7,6 +7,5 @@ Numero de cuenta: 4027 6658 2439 9845
 Nombre: PEDRO LUIS LOPEZ DOMINGUEZ
 Banco: Azteca
 Saludos cordiales, Equipo de Cuentas Max
-pero neta si hazlo we
-
+aqui va esto y quito lo anterior
 '''
